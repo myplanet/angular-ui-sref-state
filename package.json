@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-sref-state",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Resolves the target state object of a ui-sref",
   "main": "angular-ui-sref-state.js",
   "repository": {
