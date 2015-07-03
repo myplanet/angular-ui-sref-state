@@ -12,7 +12,7 @@
     "route",
     "state"
   ],
-  "author": "Ates Goral <ates@myplanet.com>",
+  "author": "Ates Goral <ates.g@myplanet.com>",
   "license": "MIT",
   "homepage": "https://github.com/myplanet/angular-ui-sref-state"
 }
